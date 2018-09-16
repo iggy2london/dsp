@@ -136,3 +136,73 @@ The process above is designed to be accessible to anyone regardless of backgroun
 To get a complete understanding of `git`, you should read [Pro Git](http://git-scm.com/book/en/v2). It's available free online or as a printed book.
 
 [<img src="img/pro_git.png" title="Pro Git" width="250" />](http://git-scm.com/book/en/v2)
+
+
+Line break = two spaces
+Enclose txt in triple quotes “””
+**Bold**
+*Italic* or _
+Click raw to see how file is formatted
+Line Separators
+1.	---
+2.	*******
+3.	___
+
+Emojis examples
+•	:fireworks:
+•	:smiley:
+•	:watermelon:
+
+Here’s a link to [Google](http://www.google.com/)
+
+= Here’s a link to Google
+
+print "hello world!" or print ("hello world!") python specific
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+First Header	Second Header
+Content from cell 1	Content from cell 2
+Content in the first column	Content in the second column
+
+First Header	Second Header
+Content from cell 1	Content from cell 2
+Content in the first column	Content in the second column
+
+
+GIT
+
+The basic workflow goes something like this:
+1.	Modify the files.
+2.	Stage the files.
+3.	Do a commit.
+4.	Push up to GitHub.
+
+
+git clone https://github.com/iggy2london/dsp.git = copy repo into local environment 
+
+Status
+add
+Commit -m ‘’a
+Push 
+
+Git push/pull: pull remote changes into local environment and vice versa
+Exit w/o saving: Ctrl – 
+Save ctrl – 
+Exit ctrl: 
+
+git remote -v = rights
+
+Python
+
+Python = esc + h for help with shortcuts
+
+Enabling matplotlib Graphics in the Notebook
+Include the following two lines in your notebooks so the graphs are viewable.
+%matplotlib inline
+import matplotlib.pyplot as plt
+
+
