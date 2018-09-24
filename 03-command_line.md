@@ -30,6 +30,7 @@ ls -l written in long format
 cp file_name directory
 cp file_name1 file_name2 = overwrite filename2 with filename1
 cp * = copy all
+cp -a (cope recursively all contents - add . after file to include hidden content )
 CP m* copying everything starting with m
 mv file folder = moving file to folder
 mv filename1 filename2 = replace name of filename1 with filename2
